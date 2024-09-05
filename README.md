@@ -1,7 +1,7 @@
-## 🏃Artur 'Staation' Valladares
+## 🏃Artur 'Staation' Valladares 🇧🇷
 
 # 💫 About Me:
-I am a backend developer and I am currently studying to improve my techniques and knowledge. Additionally, I am learning about frontend development to expand my skills and, hopefully in the future, become a fullstack developer.
+I am a brazilian backend developer and I am currently studying to improve my techniques and knowledge. Additionally, I am learning about frontend development to expand my skills and, hopefully in the future, become a fullstack developer.
 
 
 ## 🌐 Socials:
