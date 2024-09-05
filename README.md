@@ -1,7 +1,8 @@
 ## 🏃Artur 'Staation' Valladares
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a backend developer and I am currently studying to improve my techniques and knowledge. Additionally, I am learning about frontend development to expand my skills and, hopefully in the future, become a fullstack developer.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codestaation) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-valladares-hernandez-giacummo-b18924212) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/codestaation) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codestaation)[![LeetCode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white))](https://leetcode.com/u/CodeStaation/)
