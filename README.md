@@ -1,5 +1,7 @@
 ## 🏃Artur 'Staation' Valladares
 
+[![](https://visitcount.itsvg.in/api?id=arturstaation&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I am a brazilian backend developer and I am currently studying to improve my techniques and knowledge. Additionally, I am learning about frontend development to expand my skills and, hopefully in the future, become a fullstack developer.
 
@@ -14,5 +16,14 @@ I am a brazilian backend developer and I am currently studying to improve my tec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arturstaation&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arturstaation&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=arturstaation&icon=0&color=0)](https://visitcount.itsvg.in)
+# ⏳ My Journey
+
+From an early age, one of my cousins, who was always passionate about video games, inspired me to explore this fascinating world. I began by playing Club Penguin and later moved on to gaming on the DS, especially enjoying Pokémon, before diving into Minecraft. It was in Minecraft that my journey truly began. I spent a lot of time playing on community servers, particularly those run by YouTubers I followed, which eventually motivated me to create my own server. To achieve this, I started learning Java and developed my server using this language.
+
+As I entered my late teens, I ventured into creating a GTA RP server (FiveM), a popular trend at the time and a game I had played extensively. After graduating from high school, I enrolled in the Computer Science program at Universidade Presbiteriana Mackenzie. There, I gained substantial experience with Python, C, and C++. Utilizing these technologies, I worked on several interesting projects, such as the "Grafo de Comércio Exterior" (link), a project developed for a hackathon (link), and a recycling-themed game created with Java.
+
+I would like to dedicate a special mention to the recycling game. An article about this project was submitted to the X-JIHCI2024 (X Jornadas Iberoamericanas de Interacción Humano-Computadora JIHCI2024) international conference. Not only was the article accepted, but it was also recognized as one of the best papers at the conference and invited for publication in a journal.
+
+# 💼 Experience
+
+
