@@ -3,11 +3,14 @@
 [![](https://visitcount.itsvg.in/api?id=arturstaation&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I am a brazilian backend developer and I am currently studying to improve my techniques and knowledge. Additionally, I am learning about frontend development to expand my skills and, hopefully in the future, become a fullstack developer.
-
+I am a Brazilian backend developer and I am currently studying to improve my techniques and knowledge. Additionally, I am learning about frontend development to expand my skills and, hopefully in the future, become a fullstack developer. I also plan to start a YouTube channel to create videos about programming, covering various topics and demonstrating that programming is not as complicated as it seems by solving problems from LeetCode and CSSBattle.
 
 # 🌐 Socials:
-[![Instagram Dev](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codestaation) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artur.valladares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-valladares-hernandez-giacummo-b18924212) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/codestaation) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codestaation)[![LeetCode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/CodeStaation/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/artur-giacummo-b18924212/) 
+**Channel Social Medias** <br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codestaation) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/codestaation) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codestaation) [![LeetCode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/CodeStaation/)
+
+**Channel Social Medias** <br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artur.valladares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-valladares-hernandez-giacummo-b18924212) [![LeetCode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/CodeStaation/) 
 
 # 💻 Tech Stack:
 
