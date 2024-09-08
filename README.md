@@ -9,7 +9,7 @@ I am a Brazilian backend developer and I am currently studying to improve my tec
 **Channel Social Medias** <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codestaation) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/codestaation) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codestaation) [![LeetCode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/CodeStaation/)
 
-**Channel Social Medias** <br>
+**Personal Social Medias** <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artur.valladares) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-valladares-hernandez-giacummo-b18924212) [![LeetCode](https://img.shields.io/badge/Leetcode-black.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/CodeStaation/) 
 
 # 💻 Tech Stack:
